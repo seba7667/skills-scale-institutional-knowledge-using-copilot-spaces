@@ -45,9 +45,11 @@ This RACI (Responsible, Accountable, Consulted, Informed) matrix clarifies roles
 | Submit change request | C | C | R | C | C | I | I |
 | Assess change impact | C | C | C | C | C | R/A | I |
 | Approve standard changes | C | C | I | I | C | R/A | I |
-| Approve major changes | C | C | I | I | I | R | A |
+| Approve major/strategic changes | C | C | I | I | I | R | A |
 | Communicate changes | C | I | I | I | I | R/A | I |
 | Validate change testing | C | I | C | I | R | A | I |
+
+**Note**: For major/strategic changes, Change Manager is Responsible for running the approval process (impact assessment, documentation, coordination) while Executive Sponsor is Accountable for the final approval decision due to strategic or organizational impact.
 
 ---
 
