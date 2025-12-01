@@ -25,6 +25,15 @@ Below are links to all OctoAcme project management process documents:
 - [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](octoacme-roles-and-personas.md)
 
+## Supporting Templates and Tools
+
+Resources to improve clarity, accountability, and onboarding:
+
+- [OctoAcme RACI Matrix](octoacme-raci-matrix.md) - Clarifies responsibilities across all project activities
+- [OctoAcme Onboarding Checklist](octoacme-onboarding-checklist.md) - Role-specific guidance for new team members
+
 ## Related Issues
 
 This documentation hub was created to address [Issue #2](https://github.com/seba7667/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+
+Updates to roles and personas documented in [Issue #4](https://github.com/seba7667/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4).
